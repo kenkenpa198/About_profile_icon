@@ -1,11 +1,16 @@
+# About profile icon
+
+This page is about kenkenpa198's profile icon.
+
 ## My illustrations
+
 ### Original
 
-![origin](https://user-images.githubusercontent.com/75349575/159696827-992e4393-ae25-400f-8303-3e0f9c291294.jpg)
+![origin](images/original.jpg)
 
 ### For profile icon
 
-![icon](https://user-images.githubusercontent.com/75349575/159702103-1e4f8f28-a347-49ea-a848-f038b19a91ab.jpg)
+![icon](images/for_profile_icon.jpg)
 
 ## Sources
 
